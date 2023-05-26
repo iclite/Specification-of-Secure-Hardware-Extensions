@@ -1,4 +1,8 @@
-# Specification of Secure Hardware Extensions
+---
+description: Specification of Secure Hardware Extensions
+---
+
+# 安全硬件扩展规范
 
 | 文档标题  | 安全硬件扩展规范 |
 | ----- | -------- |
